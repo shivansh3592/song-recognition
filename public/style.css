@@ -1,0 +1,94 @@
+@font-face {
+	font-family: 'Kingthings_Trypewriter_2';
+	src: url('fonts/Kingthings_Trypewriter_2.ttf');
+}
+h2{
+	font-size:5vw;
+}
+.overlay {
+	background: #fdd835;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	top: 0;
+}
+.main-box {
+	border: 2px;
+	border-color: black;
+	height: 10vh;
+	/*border-style: solid;
+    */
+}
+.middle {
+	border: 2px;
+	border-color: black;
+	height: 89vh;
+	/*border-style: solid;
+    */
+}
+.main-box-results {
+	border: 2px;
+	border-color: black;
+	height: 6vh;
+	/*border-style: solid;
+    */
+}
+.middle-results {
+	border: 2px;
+	border-color: black;
+	height: 93vh;
+	/*border-style: solid;
+    */
+}
+.bottom {
+	border: 2px;
+	border-color: black;
+	height: 1vh;
+	/*border-style: solid;
+    */
+}
+.content-1{
+	border: 2px;
+	border-color: black;
+	height: 35vh;
+	/*border-style: solid;
+    */
+}
+.content-2{
+	border: 2px;
+	border-color: black;
+	height: 54vh;
+	/*border-style: solid;
+    */
+}
+.mic{
+	background-image: url('mic.png');
+	background-size: cover;
+}
+.main-text{
+	font-family: 'Kingthings_Trypewriter_2';
+	font-size: 45px
+}
+#song {
+	padding: 0px;
+}
+.text{
+	font-family: 'Inconsolata', monospace;
+	color: #0d47a1;
+}
+.button{
+	color: #424242;
+}
+.result-text{
+	font-family: 'Inconsolata', monospace;
+	color: #000000;
+}
+.image-size{
+	height: 15vh;
+	width: 30%;
+	align-content: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
